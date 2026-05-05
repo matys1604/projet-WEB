@@ -1,0 +1,197 @@
+[
+  {
+    "question": "Quel traité met fin à la guerre de Trente Ans en 1648 ?",
+    "choix": ["Traité de Tordesillas", "Traités de Westphalie", "Traité d'Utrecht"],
+    "reponse": "Traités de Westphalie"
+  },
+  {
+    "question": "Qui était l'empereur byzantin lors de la chute de Constantinople en 1453 ?",
+    "choix": ["Justinien Ier", "Constantin XI", "Basile II"],
+    "reponse": "Constantin XI"
+  },
+  {
+    "question": "Quelle bataille de 732 a stoppé l'expansion musulmane en Europe occidentale ?",
+    "choix": ["Bataille de Hastings", "Bataille de Poitiers", "Bataille d'Azincourt"],
+    "reponse": "Bataille de Poitiers"
+  },
+  {
+    "question": "Quel roi français a promulgué l'édit de Nantes en 1598 ?",
+    "choix": ["Louis XIII", "Henri IV", "François Ier"],
+    "reponse": "Henri IV"
+  },
+  {
+    "question": "Quel événement marque le début de la Réforme protestante en 1517 ?",
+    "choix": ["Publication des 95 thèses", "Concile de Trente", "Paix d'Augsbourg"],
+    "reponse": "Publication des 95 thèses"
+  },
+  {
+    "question": "Qui était le principal rival de Jules César pendant la guerre civile romaine ?",
+    "choix": ["Marc Antoine", "Pompée", "Octave"],
+    "reponse": "Pompée"
+  },
+  {
+    "question": "Quelle dynastie a régné sur la Chine lors de la construction de la Cité interdite ?",
+    "choix": ["Ming", "Qing", "Han"],
+    "reponse": "Ming"
+  },
+  {
+    "question": "Quel explorateur a été le premier à faire le tour du monde ?",
+    "choix": ["Christophe Colomb", "Fernand de Magellan", "James Cook"],
+    "reponse": "Fernand de Magellan"
+  },
+  {
+    "question": "Quel empire était dirigé par Soliman le Magnifique ?",
+    "choix": ["Empire perse", "Empire ottoman", "Empire mongol"],
+    "reponse": "Empire ottoman"
+  },
+  {
+    "question": "Quelle guerre oppose Athènes et Sparte au Ve siècle av. J.-C. ?",
+    "choix": ["Guerres médiques", "Guerre du Péloponnèse", "Guerre de Troie"],
+    "reponse": "Guerre du Péloponnèse"
+  },
+  {
+    "question": "Qui a succédé à Lénine à la tête de l'URSS ?",
+    "choix": ["Trotski", "Staline", "Khrouchtchev"],
+    "reponse": "Staline"
+  },
+  {
+    "question": "Quel traité a partagé le Nouveau Monde entre l'Espagne et le Portugal en 1494 ?",
+    "choix": ["Traité de Versailles", "Traité de Tordesillas", "Traité de Paris"],
+    "reponse": "Traité de Tordesillas"
+  },
+  {
+    "question": "Quelle bataille de 1815 marque la fin du règne de Napoléon ?",
+    "choix": ["Austerlitz", "Waterloo", "Iéna"],
+    "reponse": "Waterloo"
+  },
+  {
+    "question": "Qui était le pharaon associé à la construction de la grande pyramide de Gizeh ?",
+    "choix": ["Ramsès II", "Khéops", "Toutânkhamon"],
+    "reponse": "Khéops"
+  },
+  {
+    "question": "Quel général carthaginois a traversé les Alpes avec des éléphants ?",
+    "choix": ["Hamilcar", "Hannibal", "Scipion"],
+    "reponse": "Hannibal"
+  },
+  {
+    "question": "Quel événement de 1773 a précédé la Révolution américaine ?",
+    "choix": ["Boston Tea Party", "Déclaration d'indépendance", "Traité de Paris"],
+    "reponse": "Boston Tea Party"
+  },
+  {
+    "question": "Quel empereur romain a légalisé le christianisme avec l'édit de Milan ?",
+    "choix": ["Néron", "Constantin", "Auguste"],
+    "reponse": "Constantin"
+  },
+  {
+    "question": "Quelle bataille de 1066 a permis la conquête normande de l'Angleterre ?",
+    "choix": ["Hastings", "Crécy", "Bouvines"],
+    "reponse": "Hastings"
+  },
+  {
+    "question": "Quel roi a fait construire le château de Versailles ?",
+    "choix": ["Louis XIII", "Louis XIV", "Louis XV"],
+    "reponse": "Louis XIV"
+  },
+  {
+    "question": "Quel événement marque le début de la guerre froide ?",
+    "choix": ["Plan Marshall", "Crise de Cuba", "Chute du mur de Berlin"],
+    "reponse": "Plan Marshall"
+  },
+  {
+    "question": "Quel peuple a fondé Carthage ?",
+    "choix": ["Grecs", "Phéniciens", "Romains"],
+    "reponse": "Phéniciens"
+  },
+  {
+    "question": "Qui était le chef des Gaulois face à Jules César ?",
+    "choix": ["Vercingétorix", "Brennus", "Ambiorix"],
+    "reponse": "Vercingétorix"
+  },
+  {
+    "question": "Quel traité met fin à la guerre de Succession d'Espagne en 1713 ?",
+    "choix": ["Traité d'Utrecht", "Traité de Versailles", "Traité de Vienne"],
+    "reponse": "Traité d'Utrecht"
+  },
+  {
+    "question": "Quelle bataille a vu la défaite des Perses face aux Grecs en 490 av. J.-C. ?",
+    "choix": ["Salamine", "Marathon", "Thermopyles"],
+    "reponse": "Marathon"
+  },
+  {
+    "question": "Quel roi anglais a signé la Magna Carta en 1215 ?",
+    "choix": ["Henri II", "Jean sans Terre", "Richard Cœur de Lion"],
+    "reponse": "Jean sans Terre"
+  },
+  {
+    "question": "Quelle guerre oppose la France et l'Angleterre entre 1337 et 1453 ?",
+    "choix": ["Guerre de Cent Ans", "Guerre des Deux-Roses", "Guerre de Sept Ans"],
+    "reponse": "Guerre de Cent Ans"
+  },
+  {
+    "question": "Qui était le premier calife après la mort de Mahomet ?",
+    "choix": ["Ali", "Abou Bakr", "Omar"],
+    "reponse": "Abou Bakr"
+  },
+  {
+    "question": "Quel empire était dirigé par Charlemagne ?",
+    "choix": ["Empire carolingien", "Empire romain", "Empire byzantin"],
+    "reponse": "Empire carolingien"
+  },
+  {
+    "question": "Quelle bataille navale de 1805 a opposé la France à la Grande-Bretagne ?",
+    "choix": ["Trafalgar", "Aboukir", "Lépante"],
+    "reponse": "Trafalgar"
+  },
+  {
+    "question": "Quel philosophe a écrit 'Le Prince' ?",
+    "choix": ["Machiavel", "Rousseau", "Voltaire"],
+    "reponse": "Machiavel"
+  },
+  {
+    "question": "Quel pays a initié la révolution industrielle au XVIIIe siècle ?",
+    "choix": ["France", "Allemagne", "Royaume-Uni"],
+    "reponse": "Royaume-Uni"
+  },
+  {
+    "question": "Qui était le dirigeant de la Chine communiste en 1949 ?",
+    "choix": ["Mao Zedong", "Chiang Kai-shek", "Deng Xiaoping"],
+    "reponse": "Mao Zedong"
+  },
+  {
+    "question": "Quelle ville était la capitale de l'empire aztèque ?",
+    "choix": ["Tenochtitlan", "Cuzco", "Teotihuacan"],
+    "reponse": "Tenochtitlan"
+  },
+  {
+    "question": "Quel événement marque la fin de l'Empire romain d'Occident ?",
+    "choix": ["Chute de Rome en 476", "Sack de Rome en 410", "Édit de Milan"],
+    "reponse": "Chute de Rome en 476"
+  },
+  {
+    "question": "Qui était le chef de la France libre pendant la Seconde Guerre mondiale ?",
+    "choix": ["Pétain", "De Gaulle", "Clémenceau"],
+    "reponse": "De Gaulle"
+  },
+  {
+    "question": "Quel conflit oppose les États-Unis et l'URSS indirectement après 1945 ?",
+    "choix": ["Guerre froide", "Guerre de Corée", "Guerre du Vietnam"],
+    "reponse": "Guerre froide"
+  },
+  {
+    "question": "Quelle bataille de 1916 est l'une des plus meurtrières de la Première Guerre mondiale ?",
+    "choix": ["Verdun", "Somme", "Marne"],
+    "reponse": "Verdun"
+  },
+  {
+    "question": "Quel roi macédonien est le père d'Alexandre le Grand ?",
+    "choix": ["Philippe II", "Darius III", "Antigone"],
+    "reponse": "Philippe II"
+  },
+  {
+    "question": "Quel empire dominait l'Europe centrale avant 1918 ?",
+    "choix": ["Empire austro-hongrois", "Empire ottoman", "Empire russe"],
+    "reponse": "Empire austro-hongrois"
+  }
+]
